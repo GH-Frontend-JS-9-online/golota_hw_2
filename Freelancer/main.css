@@ -12,7 +12,7 @@
     margin: 0 auto;
 }
 .header{
-    background: url("/HM-2/Freelancer/img/header.png") no-repeat center center;
+    background: url("img/header.png") no-repeat center center;
     background-size: cover;
 }
 .top{
